@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Namra Pithwa  
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH4SQmZsBH8hQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1724927675667?e=2147483647&v=beta&t=QTAqwImKofRnZQIBeE3pBIeR9Ih60TfzGYZKL_o4pv4" alt="Cover Photo" style="border-radius: 10px;"/>
-</p>
-<p align="center" style="position: relative;">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEDgeEOe7rXUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723557881048?e=2147483647&v=beta&t=XRHLby6jy0qND60QjFiokdUXHVhoCgRIE9k8LhNoplI" alt="Profile Photo" style="width: 150px; height: 150px; border-radius: 50%; margin-top: -75px; border: 5px solid white;" />
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <!-- Profile Photo with Gray Border -->
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEDgeEOe7rXUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723557881048?e=2147483647&v=beta&t=XRHLby6jy0qND60QjFiokdUXHVhoCgRIE9k8LhNoplI" alt="Profile Photo" style="width: 150px; height: 150px; border-radius: 50%; margin-left: -75px; border: 5px solid gray;" />
+  <!-- Cover Photo -->
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH4SQmZsBH8hQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1724927675667?e=2147483647&v=beta&t=QTAqwImKofRnZQIBeE3pBIeR9Ih60TfzGYZKL_o4pv4" alt="Cover Photo" style="border-radius: 10px; width: 80%; max-width: 1200px;" />
 </p>
 
 ---
