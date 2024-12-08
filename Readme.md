@@ -100,10 +100,13 @@ I'm **Namra Pithwa**, a passionate **.NET, Full Stack and Flutter Developer** de
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=namrapithwa-tech&theme=corporate" alt="GitHub Streak" width="48%"/>
 </p>  
 
-<!-- Profile Views Counter -->
+<!-- Profile Views Counter (Starting at 200) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=namrapithwa-tech&color=brightgreen" alt="Profile Views" />
+  <br />
+  <small>Profile Views (Recent: 200+)</small> <!-- Custom text to indicate recent views -->
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrapithwa-tech&layout=compact&theme=corporate" alt="Top Languages" width="48%"/>
