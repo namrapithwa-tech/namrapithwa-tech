@@ -42,8 +42,11 @@ I'm **Namra Pithwa**, a passionate **.NET & Full Stack Developer** dedicated to 
   <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-%230A0F1D.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
