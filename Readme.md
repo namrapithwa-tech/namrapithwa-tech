@@ -10,8 +10,7 @@
 ---
 
 ## 🌟 About Me  
-I'm **Namra Pithwa**, a passionate **.NET, Full Stack and Flutter Developer** dedicated to creating innovative and efficient solutions. With hands-on experience in **ASP.NET Core**, **Flutter**, and the **MERN Stack**, I specialize in both **front-end** and **back-end development** to deliver high-quality software solutions.
-
+Namra Pithwa is a results-driven **.NET, Full Stack, and Flutter Developer** committed to delivering innovative and efficient software solutions. With comprehensive expertise in **ASP.NET Core**, **Flutter**, and the **MERN Stack**, Namra specializes in designing and implementing robust **front-end**, **back-end architectures** and **Database** ensuring seamless functionality and exceptional user experiences.
 # **Your Vision 📈,My Code!👨🏻‍💻**
 
 ---
