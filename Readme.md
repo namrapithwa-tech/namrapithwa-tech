@@ -103,8 +103,6 @@ I'm **Namra Pithwa**, a passionate **.NET, Full Stack and Flutter Developer** de
 <!-- Profile Views Counter (Starting at 200) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=namrapithwa-tech&color=brightgreen" alt="Profile Views" />
-  <br />
-  <small>Profile Views (Recent: 200+)</small> <!-- Custom text to indicate recent views -->
 </p>
 
 
