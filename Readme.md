@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=namrapithwa-tech&color=blue)
+
 # 👋 Hello, I'm Namra Pithwa  
 
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
