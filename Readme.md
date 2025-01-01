@@ -102,7 +102,9 @@ Namra Pithwa is a results-driven **.NET, Full Stack, and Flutter Developer** com
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrapithwa-tech&layout=compact&theme=corporate" alt="Top Languages" width="48%"/>
 </p>  
-![Profile Views](https://komarev.com/ghpvc/?username=namrapithwa-tech&color=blue)
+
 ---
 
 ✨ *Let's connect, collaborate, and create the future together!*  
+
+![Profile Views](https://komarev.com/ghpvc/?username=namrapithwa-tech&color=blue)
