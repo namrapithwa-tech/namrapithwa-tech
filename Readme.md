@@ -54,7 +54,7 @@ Namra Pithwa is a results-driven **.NET, Full Stack, and Flutter Developer** com
 
 ## 🔑 Key Projects  
 
-- **GST E-Billing Systems (ASP.NET Core WebAPI)(OnGOing):**  
+- **GST E-Billing Systems (ASP.NET Core WebAPI)(OnGoing):**  
   Developing GST E-Billing web application , enabling efficient invoice generation, tax calculations, and compliance with GST regulations.. 
 
 
@@ -97,14 +97,12 @@ Namra Pithwa is a results-driven **.NET, Full Stack, and Flutter Developer** com
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=namrapithwa-tech&show_icons=true&theme=corporate" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=namrapithwa-tech&theme=corporate&hide_border=true" alt="GitHub Streak Stats" width="48%"/>
-  <span>![Profile Views](https://komarev.com/ghpvc/?username=namrapithwa-tech&color=blue)</span>
 </p>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrapithwa-tech&layout=compact&theme=corporate" alt="Top Languages" width="48%"/>
 </p>  
- 
-
+![Profile Views](https://komarev.com/ghpvc/?username=namrapithwa-tech&color=blue)
 ---
 
 ✨ *Let's connect, collaborate, and create the future together!*  
