@@ -96,14 +96,8 @@ Namra Pithwa is a results-driven **.NET, Full Stack, and Flutter Developer** com
 ## 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=namrapithwa-tech&show_icons=true&theme=corporate" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namrapithwa-tech&theme=corporate&hide_border=true" alt="GitHub Streak Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namrapithwa-tech&theme=corporate&hide_border=false" alt="GitHub Streak Stats" width="48%"/>
 </p>  
-
-<div align="center">
-  <img src="https://your-stats.vercel.app/api?username=namrapithwa-tech&show_icons=true&theme=corporate" alt="GitHub Stats" width="48%"/>
-  <img src="https://your-streak.vercel.app?user=namrapithwa-tech&theme=corporate" alt="GitHub Streak" width="48%"/>
-</div>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrapithwa-tech&layout=compact&theme=corporate" alt="Top Languages" width="48%"/>
