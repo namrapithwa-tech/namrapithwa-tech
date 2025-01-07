@@ -96,7 +96,7 @@ Namra Pithwa is a results-driven **.NET, Full Stack, and Flutter Developer** com
 ## 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=namrapithwa-tech&show_icons=true&theme=corporate" alt="GitHub Stats" width="48%"/>
-  <img src="https://img.shields.io/badge/GitHub-Streak-informational?style=for-the-badge&logo=github" alt="GitHub Streak Badge" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=namrapithwa-tech&theme=dark)](https://git.io/streak-stats)
 </p>  
 
 <p align="center">
