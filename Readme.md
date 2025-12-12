@@ -4,7 +4,7 @@
   <!-- Profile Photo with Gray Border -->
 <!--   <img src="https://media.licdn.com/dms/image/v2/D4D03AQEDgeEOe7rXUA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723557881048?e=2147483647&v=beta&t=XRHLby6jy0qND60QjFiokdUXHVhoCgRIE9k8LhNoplI" alt="Profile Photo" style="width: 150px; height: 150px; border-radius: 50%; margin-left: -75px; border: 5px solid gray;" /> -->
   <!-- Cover Photo -->
-</p><img width="1584" height="396" alt="Blue And Green Professional Technology LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/521c741d-5954-4ec7-9798-08d4bf7d60c4" style="border-radius: 10px; width: 80%; max-width: 1200px;" />
+</p><img width="1584" height="396" alt="Blue And Green Professional Technology LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/521c741d-5954-4ec7-9798-08d4bf7d60c4" style="border-radius: 10px; width: 100%; max-width: 1200px;" />
 
 
 ---
