@@ -1,54 +1,68 @@
-# 🧑‍💼 Namra Pithwa  
-### Full Stack • MERN • .NET • Flutter Developer  
+<!-- ========================= -->
+<!--  DARK GLASS HERO SECTION  -->
+<!-- ========================= -->
 
-<!-- TOP WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&animation=fadeIn" width="100%"/>
+<h1 align="center">
+  Namra Pithwa
+</h1>
+
+<h3 align="center">
+  Full Stack Developer • MERN • .NET • Flutter
+</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/521c741d-5954-4ec7-9798-08d4bf7d60c4" width="100%" style="border-radius:12px"/>
+  <i>Building. Teaching. Scaling software.</i>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=namrapithwa-tech&label=Profile%20Views&color=0d1117&style=flat" />
+</p>
 
-## 👋 Professional Summary
-
-I believe the best way to master a technology is to **build with it**, and the second best way is to **teach it**.
-
-As a **Computer Science student at Darshan University**, I have spent the past year doing both. I am currently working as a **MERN Stack Intern at DreamSpot IT Academy**, where I build real-world web applications and gain hands-on experience across the **entire development lifecycle**, from design to deployment.
-
-Previously, I served as a **Teaching Assistant**, supporting students in **ASP.NET, PHP, and WordPress**. This role strengthened my ability to break down complex technical concepts into **clear, practical solutions**—a skill I consistently apply while developing scalable and maintainable software.
+<!-- Glass divider -->
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #2f81f7, transparent);" />
 
 ---
 
-## 🧩 Skill Architecture
+## 🧊 About Me (Dark-Glass Profile)
 
-### 🎨 Frontend Development
+> *“The best way to master a technology is to build with it —  
+> the second best way is to teach it.”*
+
+I am a **Computer Science student at Darshan University** with a strong focus on **real-world software development**. Currently working as a **MERN Stack Intern at DreamSpot IT Academy**, I build production-ready web applications and work across the **complete development lifecycle**.
+
+Previously, I worked as a **Teaching Assistant**, mentoring students in **ASP.NET, PHP, and WordPress**. This experience sharpened my ability to convert complex technical ideas into **clean, scalable, and maintainable solutions** — a mindset I carry into every project.
+
+---
+
+## 🧬 Tech Stack (Glass-Segmented)
+
+### 🎨 Frontend
 - HTML5, CSS3, JavaScript  
 - React.js  
 - Bootstrap, Tailwind CSS  
 - Material UI  
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 - ASP.NET Core (MVC & Web API)  
 - Node.js & Express.js  
 - Java (Core)  
 - PHP  
 
-### 📱 Mobile Development
+### 📱 Mobile
 - Flutter  
 - Dart  
 
-### 🗄️ Databases
+### 🗄 Databases
 - SQL Server  
 - MongoDB  
 
 ### ☁️ Cloud & DevOps
 - Microsoft Azure  
 - Docker  
-- RESTful APIs  
+- REST APIs  
 - Swagger / OpenAPI  
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 - Git & GitHub  
 - Postman  
 - npm  
@@ -57,49 +71,43 @@ Previously, I served as a **Teaching Assistant**, supporting students in **ASP.N
 
 ---
 
-## 🏗️ Key Projects
+## 🏗 Featured Projects
 
-### 🔹 GST E-Billing System *(Ongoing)*
-**Tech:** ASP.NET Core Web API  
-- GST-compliant invoice generation  
+### ▪ GST E-Billing System *(Ongoing)*
+**ASP.NET Core Web API**
+- GST-compliant invoicing  
 - Multi-product billing  
-- B2B & B2C reporting  
-- PDF and Excel exports  
+- B2B / B2C reports  
+- PDF & Excel exports  
 
----
+### ▪ Coffee Shop Management System
+**ASP.NET Core MVC**
+- Inventory & sales tracking  
+- Customer management  
+- Role-based access  
 
-### 🔹 Coffee Shop Management System
-**Tech:** ASP.NET Core MVC  
-- Inventory and sales management  
-- Customer tracking  
-- Role-based access control  
-
----
-
-### 🔹 E-Book Shopping Platform
-**Tech:** MERN Stack  
+### ▪ E-Book Shopping Platform
+**MERN Stack**
 - Secure authentication  
-- Shopping cart and order flow  
-- REST API driven architecture  
+- Cart & checkout flow  
+- REST-driven architecture  
 
----
-
-### 🔹 Social Media Application
-**Tech:** Flutter  
+### ▪ Social Media Application
+**Flutter**
 - Real-time feeds  
 - Messaging system  
-- Cross-platform mobile deployment  
+- Cross-platform support  
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=namrapithwa-tech&theme=flat&no-frame=true&margin-w=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=namrapithwa-tech&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namrapithwa-tech&theme=github-compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namrapithwa-tech&theme=react-dark&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
@@ -108,23 +116,18 @@ Previously, I served as a **Teaching Assistant**, supporting students in **ASP.N
 
 <p align="center">
   <a href="https://www.linkedin.com/in/namra-pithwa-6706001aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:tech.namra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
   </a>
   <a href="https://www.instagram.com/namra_2333/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Social-E4405F?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 </p>
 
 ---
 
-## 📞 Contact
-- 📧 **Email:** tech.namra@gmail.com  
-- 📱 **Phone:** +91 91733 16294  
-
----
-
-<!-- BOTTOM WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<p align="center">
+  <i>“Code with clarity. Build with purpose.”</i>
+</p>
