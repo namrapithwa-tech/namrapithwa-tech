@@ -40,7 +40,8 @@ Previously, I worked as a **Teaching Assistant**, guiding students in **ASP.NET,
 
 ## 🏗 Featured Projects
 
-**GST E-Billing System (Ongoing)** — *ASP.NET Core Web API*  
+**ArogyaOne (Ongoing)** — *MERN Stack* 
+**GST E-Billing System** — *ASP.NET Core Web API*  
 **Coffee Shop Management System** — *ASP.NET Core MVC*  
 **E-Book Shopping Platform** — *MERN Stack*  
 **Social Media Application** — *Flutter*
