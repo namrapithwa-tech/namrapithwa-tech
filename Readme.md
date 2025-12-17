@@ -40,7 +40,7 @@ Previously, I worked as a **Teaching Assistant**, guiding students in **ASP.NET,
 
 ## 🏗 Featured Projects
 
-**ArogyaOne (Ongoing)** — *MERN Stack* /n
+**ArogyaOne (Ongoing)** — *MERN Stack* \n
 **GST E-Billing System** — *ASP.NET Core Web API*  
 **Coffee Shop Management System** — *ASP.NET Core MVC*  
 **E-Book Shopping Platform** — *MERN Stack*  
