@@ -51,6 +51,9 @@ Previously, I worked as a **Teaching Assistant**, guiding students in **ASP.NET,
 ## 📊 GitHub Activity
 
 <p align="center">
+
+  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=namrapithwa-tech&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
   <img src="https://github-readme-streak-stats.vercel.app/?user=namrapithwa-tech&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
