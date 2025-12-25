@@ -51,7 +51,7 @@ Previously, I worked as a **Teaching Assistant**, guiding students in **ASP.NET,
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=namrapithwa-tech&theme=dark&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=namrapithwa-tech&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
