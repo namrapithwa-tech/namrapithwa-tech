@@ -1,12 +1,16 @@
 <!-- ========================= -->
-<!--  DARK GLASS PRO PROFILE   -->
+<!--  DARK GLASS • PRO PROFILE -->
 <!-- ========================= -->
 
-<h1 align="center">Namra Pithwa</h1>
-<h3 align="center">Full Stack Developer • MERN • .NET • Flutter</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=8BE9FD&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Namra+Pithwa.;Full+Stack+Developer+(MERN+%2F+.NET+%2F+Flutter);Clean+Code.+Real+World+Projects.+Continuous+Learning." />
+</p>
+
+<h1 align="center">✨ Namra Pithwa</h1>
+<h3 align="center">Full Stack Developer — MERN • .NET • Flutter</h3>
 
 <p align="center">
-  <i>Building. Teaching. Scaling software.</i>
+  <i>Building. Teaching. Solving problems with clean engineering.</i>
 </p>
 
 <p align="center">
@@ -17,11 +21,22 @@
 
 ## 🧊 About Me
 
-> *“The best way to master a technology is to build with it — the second best way is to teach it.”*
+> *“The best way to master technology is to build with it — the second best way is to teach it.”*
 
-I am a **Computer Science student at Darshan University**, currently working as a **MERN Stack Intern at DreamSpot IT Academy**. I build real-world applications while gaining hands-on experience across the full development lifecycle.
+Computer Science student @ **Darshan University**  
+Currently **MERN Stack Intern — DreamSpot IT Academy**
 
-Previously, I worked as a **Teaching Assistant**, guiding students in **ASP.NET, PHP, and WordPress**, which strengthened my ability to transform complex technical problems into clean, scalable solutions.
+Ex–Teaching Assistant for:
+
+✔ ASP.NET  
+✔ PHP  
+✔ WordPress  
+
+I focus on building systems that are:
+
+🔥 scalable  
+🔥 maintainable  
+🔥 useful in real-world problems  
 
 ---
 
@@ -29,47 +44,80 @@ Previously, I worked as a **Teaching Assistant**, guiding students in **ASP.NET,
 
 | Domain | Technologies |
 |------|-------------|
-| **Frontend** | HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS, Material UI |
-| **Backend** | ASP.NET Core (MVC & Web API), Node.js, Express.js, Java (Core), PHP |
+| **Frontend** | HTML, CSS, JS, React, Bootstrap, Tailwind, Material UI |
+| **Backend** | ASP.NET Core, Node.js, Express.js, Java, PHP |
 | **Mobile** | Flutter, Dart |
-| **Databases** | SQL Server, MongoDB |
-| **Cloud & DevOps** | Microsoft Azure, Docker, REST APIs, Swagger |
-| **Tools** | Git, GitHub, Postman, npm, Jira, WordPress |
+| **Database** | SQL Server, MongoDB |
+| **DevOps & Cloud** | Azure, Docker, REST APIs, Swagger |
+| **Tools** | Git, GitHub, Postman, npm, Jira |
 
 ---
 
-## 🏗 Featured Projects
+## 🏆 GitHub Trophies (Glass Effect)
 
-**ArogyaOne (Ongoing)** — *MERN Stack*
-**GST E-Billing System** — *ASP.NET Core Web API*  
-**Coffee Shop Management System** — *ASP.NET Core MVC*  
-**E-Book Shopping Platform** — *MERN Stack*  
-**Social Media Application** — *Flutter*
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">  
-  <img src="https://github-readme-streak-stats.vercel.app/?user=namrapithwa-tech&theme=dark&hide_border=true&background=0D1117" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=namrapithwa-tech&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
+---
+
+## 📌 Pinned Project Cards
+
+<p align="center">
+  <a href="https://github.com/namrapithwa-tech/ArogyaOne">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namrapithwa-tech&repo=ArogyaOne&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/namrapithwa-tech/GST-E-Billing-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namrapithwa-tech&repo=GST-E-Billing-System&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+> Want more cards? Just tell me repo names 👍
+
+---
+
+## 📊 GitHub Activity — Dark Glass
+
+### 🏁 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namrapithwa-tech&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+### 🧩 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrapithwa-tech&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+### 🌌 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namrapithwa-tech&theme=react-dark&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
-## 🌐 Connect
+## ✨ Glow / Neon Effect Section
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/namra-pithwa-6706001aa/" target="_blank">
+  <img src="https://github-readme-typing-svg.herokuapp.com?size=22&color=50FA7B&center=true&vCenter=true&width=600&lines=Code+with+clarity.;Design+with+purpose.;Ship+projects+that+matter." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Clean%20Architecture-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=50FA7B">
+  <img src="https://img.shields.io/badge/Mindset-Learn%20%26%20Build-0D1117?style=for-the-badge&logo=github&logoColor=8BE9FD">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/namra-pithwa-6706001aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:tech.namra@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
   </a>
-  <a href="https://www.instagram.com/namra_2333/" target="_blank">
+  <a href="https://www.instagram.com/namra_2333/">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 </p>
