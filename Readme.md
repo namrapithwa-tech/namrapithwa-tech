@@ -26,17 +26,17 @@
 Computer Science student @ **Darshan University**  
 Currently **MERN Stack Intern — DreamSpot IT Academy**
 
-Ex–Teaching Assistant for:
+Former Teaching Assistant:
 
-✔ ASP.NET  
-✔ PHP  
-✔ WordPress  
+- ASP.NET  
+- PHP  
+- WordPress  
 
-I focus on building systems that are:
+Focus:
 
-🔥 scalable  
-🔥 maintainable  
-🔥 useful in real-world problems  
+✔ scalable software  
+✔ clean architecture  
+✔ real-world impact  
 
 ---
 
@@ -48,7 +48,7 @@ I focus on building systems that are:
 | **Backend** | ASP.NET Core, Node.js, Express.js, Java, PHP |
 | **Mobile** | Flutter, Dart |
 | **Database** | SQL Server, MongoDB |
-| **DevOps & Cloud** | Azure, Docker, REST APIs, Swagger |
+| **Cloud / DevOps** | Azure, Docker, REST APIs, Swagger |
 | **Tools** | Git, GitHub, Postman, npm, Jira |
 
 ---
@@ -65,14 +65,14 @@ I focus on building systems that are:
 
 <p align="center">
   <a href="https://github.com/namrapithwa-tech/ArogyaOne">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namrapithwa-tech&repo=ArogyaOne&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=namrapithwa-tech&repo=ArogyaOne&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/namrapithwa-tech/GST-E-Billing-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namrapithwa-tech&repo=GST-E-Billing-System&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=namrapithwa-tech&repo=GST-E-Billing-System&theme=transparent&hide_border=true" />
   </a>
 </p>
 
-> Want more cards? Just tell me repo names 👍
+> Want more repo cards? Tell me repo names 👍
 
 ---
 
@@ -80,22 +80,22 @@ I focus on building systems that are:
 
 ### 🏁 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namrapithwa-tech&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=namrapithwa-tech&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 ### 🧩 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrapithwa-tech&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=namrapithwa-tech&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ### 🌌 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namrapithwa-tech&theme=react-dark&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namrapithwa-tech&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
 
-## ✨ Glow / Neon Effect Section
+## ✨ Glow / Neon
 
 <p align="center">
   <img src="https://github-readme-typing-svg.herokuapp.com?size=22&color=50FA7B&center=true&vCenter=true&width=600&lines=Code+with+clarity.;Design+with+purpose.;Ship+projects+that+matter." />
