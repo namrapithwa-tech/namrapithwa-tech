@@ -65,7 +65,7 @@ Focus:
 
 <p align="center">
   <a href="https://github.com/namrapithwa-tech/ArogyaOne">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=namrapithwa-tech&repo=ArogyaOne&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=namrapithwa-tech&repo=MERN_Stack_Internship_DREAM_SPOT&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/namrapithwa-tech/GST-E-Billing-System">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=namrapithwa-tech&repo=GST-E-Billing-System&theme=transparent&hide_border=true" />
