@@ -53,29 +53,6 @@ Focus:
 
 ---
 
-## 🏆 GitHub Trophies (Glass Effect)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=namrapithwa-tech&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📌 Pinned Project Cards
-
-<p align="center">
-  <a href="https://github.com/namrapithwa-tech/ArogyaOne">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=namrapithwa-tech&repo=MERN_Stack_Internship_DREAM_SPOT&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/namrapithwa-tech/GST-E-Billing-System">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=namrapithwa-tech&repo=GST-E-Billing-System&theme=transparent&hide_border=true" />
-  </a>
-</p>
-
-> Want more repo cards? Tell me repo names 👍
-
----
-
 ## 📊 GitHub Activity — Dark Glass
 
 ### 🏁 Stats
