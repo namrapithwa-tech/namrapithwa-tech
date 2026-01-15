@@ -72,19 +72,6 @@ Focus:
 
 ---
 
-## ✨ Glow / Neon
-
-<p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?size=22&color=50FA7B&center=true&vCenter=true&width=600&lines=Code+with+clarity.;Design+with+purpose.;Ship+projects+that+matter." />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Clean%20Architecture-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=50FA7B">
-  <img src="https://img.shields.io/badge/Mindset-Learn%20%26%20Build-0D1117?style=for-the-badge&logo=github&logoColor=8BE9FD">
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
